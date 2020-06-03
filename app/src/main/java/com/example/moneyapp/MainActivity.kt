@@ -17,7 +17,6 @@ class MainActivity : AppCompatActivity() {
                 ".{6,20}" +  //at least 4 characters
                 "$"
     )*/
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
