@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Money App</string>
+    <string name="label">label</string>
+    <string name="password">password</string>
+    <string name="e_mail">e-mail</string>
+    <string name="content_description_end_icon">image</string>
+    <string name="login">LogIn</string>
+    <string name="remember_me">Remember Me</string>
+</resources>
